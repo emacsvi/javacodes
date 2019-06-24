@@ -1,2 +1,10 @@
 # javacodes
-this codes that it is code with my study java examples.
+这个项目是我从今天开始学习java的一些示例。光建说以我这样的水平一周就可以把java写得很熟练。难道java真的这样简单。我试试
+
+# web
+做web开发，我这边一般用go, python的比较多。但是据说快速的开发还是要java比较方便。
+
+# 大型项目
+据说java天然适合做大型项目的开发。
+
+带着上面的种种疑惑，我开始研究一下这个内心极其讨厌的语言java。
